@@ -1,0 +1,10 @@
+{
+  "cameras": {
+    "Lab Camera 1": "rtsp://3.141.239.203:8554/cam1"
+  },
+  "model": "yolo26n.pt",
+  "confidence": 0.5,
+  "inference_interval_seconds": 1.0,
+  "empty_after_seconds": 15.0,
+  "stale_stream_seconds": 8.0
+}
